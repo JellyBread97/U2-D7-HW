@@ -1,0 +1,53 @@
+/* EXERCISE 1
+            For all Albums we'd like to have a consistent style.
+            Create a class for:
+            - The album container
+            - The album cover
+            - The album title
+            - The album group / singer / dj
+            - The album genre
+            - The album duration
+            - etc
+*/
+html {
+  font-size: 1rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.cover-img {
+  width: 100%;
+}
+
+.card-title {
+  font-size: 1em;
+}
+
+#review h5 {
+  font-size: 2rem;
+}
+
+#review p {
+  font-size: 1.1rem;
+}
+
+#review li {
+  font-size: 1.05rem;
+  padding: 5%;
+}
+
+.tracklist {
+  list-style-type: none;
+  border-bottom: 1px solid white;
+}
+
+.card-title {
+  font-size: 0.8rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
