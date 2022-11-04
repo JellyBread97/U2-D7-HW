@@ -69,3 +69,7 @@ a {
   text-decoration: none;
   color: white;
 }
+
+.btn {
+  padding: 1px 4px;
+}
